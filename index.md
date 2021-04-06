@@ -17,18 +17,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
-
-<img src="images/breast-cancer.jpeg?raw=true"/>
-
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://colab.research.google.com/drive/1ZQ3keuPYguY9rjy8C8gnAMfSkbVAplHK?usp=sharing)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://colab.research.google.com/drive/1Sk_SQlq-TWaYNEpIgdz4l3TOttzcIYcS?usp=sharing)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
