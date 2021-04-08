@@ -71,4 +71,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src= "images/CATS.jpeg"/>
 
-
+- Used convolution neuro network model to train a series of pictures of dogs and cats
+- There are two convolution layers with relu activatioon with two pooling layers of 2x2 kernels with 2 step stride
+  following the flattening stage.
+- The full conection stage uses relu activation with a sigmoid output to hold within 0 to 1 boundaries
+- Selected best parameters based on train and test performance using 20 epochs
+- The model identifies dogs and cats with 83% accuracy
