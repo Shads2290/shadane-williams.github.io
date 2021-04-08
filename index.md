@@ -54,3 +54,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Used PCA to identify most important atributes to accurately predict housing market](https://colab.research.google.com/drive/1qLA_6kUuqd9vT_KfFzq2qxQZp40XEuZh)
 
 <img src= "images/housing.jpeg"/>
+
+- Used principle component analysis to reduce non important atributes to better estimate house market value
+- Scale data for best PCA consants without loss of information
+- Found number of components with at least a 90% variance
