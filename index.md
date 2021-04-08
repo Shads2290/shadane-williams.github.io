@@ -19,11 +19,11 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/bank.jpeg"/>
 
--Used logistic regression to identify potential bankers based on various attributes
--Implemented SMOTE to balance class labels
--Used Logistic regression classifier & optimized the accuracy by using the ROC curve
--Create the confusion matrix for the predictions and make note of the outputs
--Created a classification report and eplored the various outputs
+- Used logistic regression to identify potential bankers based on various attributes
+- Implemented SMOTE to balance class labels
+- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
+- Create the confusion matrix for the predictions and make note of the outputs
+- Created a classification report and eplored the various outputs
 ***
 
 [Identifying symptoms of orthopedic patients as normal or abnormal](https://colab.research.google.com/drive/1Sk_SQlq-TWaYNEpIgdz4l3TOttzcIYcS?usp=sharing)
