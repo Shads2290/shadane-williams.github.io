@@ -84,3 +84,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Deep Neural Network with Keras for MNIST handwritten classification and recognition](https://colab.research.google.com/drive/1t7NiTczdrYY6BqL0umevKVKkr73Y8mUz)
 
 <img src= "images/HAND.png"/>
+
+- Developed a driver block to develop a working model and establish a few baseline architecture for a classification task.
+- Improved the performance of the model through two different processes.
+- Created a finalized model and then used it to create predictions on new images.
