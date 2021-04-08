@@ -27,6 +27,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 [Identifying possible click fraud by legitimizing user atributes](https://colab.research.google.com/drive/1UqxyiKf465NEJ0hPZpT3DYRA4bJE7FCh)
 
+<img src="images/click fruad.jpeg"/>
 ***
 [Identifying symptoms of orthopedic patients as normal or abnormal](https://colab.research.google.com/drive/1Sk_SQlq-TWaYNEpIgdz4l3TOttzcIYcS?usp=sharing)
 
