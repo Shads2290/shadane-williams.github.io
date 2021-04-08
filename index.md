@@ -52,3 +52,5 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Selected best model based on train and test performance
 ***
 [Used PCA to identify most important atributes to accurately predict housing market](https://colab.research.google.com/drive/1qLA_6kUuqd9vT_KfFzq2qxQZp40XEuZh)
+
+<img src= "images/housing.jpeg"/>
