@@ -66,6 +66,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used HelpfulnessNumerator, set of stopwords, snowball stemmer and cleanpunc functions to prepare data for futher analysis
 - Used the countvectorizer to train data and observe output. 
 ***
+
 [Used CNN model to identify images between a dog or a cat](https://colab.research.google.com/drive/1rvMGRZg5jFbRNBBKpVkIrA-javVkPkKs)
 
 <img src= "images/CATS.jpeg"/>
