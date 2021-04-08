@@ -28,6 +28,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Identifying possible click fraud by legitimizing user atributes](https://colab.research.google.com/drive/1UqxyiKf465NEJ0hPZpT3DYRA4bJE7FCh)
 
 <img src="images/click fraud.jpeg"/>
+
 - Used the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 - Used the Random Forest, Bagging classifier, and XGBoost classifier
 - Used these three models to distinguige click fraud base on accuracy
