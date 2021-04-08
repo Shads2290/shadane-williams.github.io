@@ -59,6 +59,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Scale data for best PCA consants without loss of information
 - Found number of components with at least a 90% variance
 ***
-[Using NLP to determine whether the review is positive or negative]()
+[Using NLP to determine whether the review is positive or negative](https://colab.research.google.com/drive/1aoQel3nYgHOJAWllF-56BQdoG3xiV4fN)
 
 <img src= "images/reviews.jpeg"/>
+- Used the SQLite Table to read data
+- Used HelpfulnessNumerator, set of stopwords, snowball stemmer and cleanpunc functions to prepare data for futher analysis
+- Used the countvectorizer to train data and observe output. 
