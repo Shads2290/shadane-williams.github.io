@@ -22,7 +22,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used logistic regression to identify potential bankers based on various attributes
 - Implemented SMOTE to balance class labels
 - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Create the confusion matrix for the predictions and make note of the outputs
+- Created the confusion matrix for the predictions and make note of the outputs
 - Created a classification report and eplored the various outputs
 ***
 
