@@ -43,4 +43,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
 ***
-[Identifying total compensation depending on all benefits](https://colab.research.google.com/drive/1r8buRPpTT-F009BI0mFsToJrf5bMYfdM#scrollTo=OWR6XNB4A5Gi)
+[Identifying total compensation based on a vareity of benefits provided by the San Francisco Controller's Office](https://colab.research.google.com/drive/1r8buRPpTT-F009BI0mFsToJrf5bMYfdM#scrollTo=OWR6XNB4A5Gi)
+
+<img src= "images/Total Compensation.jpeg"/>
