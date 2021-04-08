@@ -16,7 +16,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 [Identifying Customers Likely to Subscribe for Term Deposit](https://colab.research.google.com/drive/1h3Rnc_h4cgTWTaLEYmQDgoLqIJdiNlsc)
-<
+<img src="banking.jpeg"/>
 
 ***
 
