@@ -15,6 +15,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Fit a multiple linear regression model with high prediction accuracy through iteration
 
 ***
+
 [Identifying Customers Likely to Subscribe for Term Deposit](https://colab.research.google.com/drive/1h3Rnc_h4cgTWTaLEYmQDgoLqIJdiNlsc)
 
 <img src="images/bank.jpeg"/>
@@ -25,6 +26,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Created the confusion matrix for the predictions and make note of the outputs
 - Created a classification report and eplored the various outputs
 ***
+
 [Identifying possible click fraud by legitimizing user atributes](https://colab.research.google.com/drive/1UqxyiKf465NEJ0hPZpT3DYRA4bJE7FCh)
 
 <img src="images/click fraud.jpeg"/>
@@ -35,6 +37,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Selected best model based on train and test performance
 
 ***
+
 [Identifying symptoms of orthopedic patients as normal or abnormal](https://colab.research.google.com/drive/1Sk_SQlq-TWaYNEpIgdz4l3TOttzcIYcS?usp=sharing)
 
 <img src= "images/bones.jpeg"/>
@@ -43,6 +46,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
 ***
+
 [Identifying total compensation based on a vareity of benefits provided by the San Francisco Controller's Office](https://colab.research.google.com/drive/1r8buRPpTT-F009BI0mFsToJrf5bMYfdM#scrollTo=OWR6XNB4A5Gi)
 
 <img src= "images/Total Compensation.jpeg"/>
@@ -51,6 +55,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
 ***
+
 [Used PCA to identify most important atributes to accurately predict housing market](https://colab.research.google.com/drive/1qLA_6kUuqd9vT_KfFzq2qxQZp40XEuZh)
 
 <img src= "images/housing.jpeg"/>
@@ -59,6 +64,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Scale data for best PCA consants without loss of information
 - Found number of components with at least a 90% variance
 ***
+
 [Using NLP to determine whether the review is positive or negative](https://colab.research.google.com/drive/1aoQel3nYgHOJAWllF-56BQdoG3xiV4fN)
 
 <img src= "images/reviews.jpeg"/>
