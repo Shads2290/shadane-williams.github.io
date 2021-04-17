@@ -58,6 +58,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used the K Nearest Neighbours algorithm to total compensation of employees on various atributes
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
+- Doing different comparisons showed that benefits are proportional to ones total compensation.
 ***
 
 [Used PCA to identify most important atributes to accurately predict housing market](https://colab.research.google.com/drive/1qLA_6kUuqd9vT_KfFzq2qxQZp40XEuZh)
