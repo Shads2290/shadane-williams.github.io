@@ -76,7 +76,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used the SQLite Table to read data
 - Used HelpfulnessNumerator, set of stopwords, snowball stemmer and cleanpunc functions to prepare data for futher analysis
 - Used the countvectorizer to train data and observe output. 
-- 
+- The model showed the Best alpha Value 0.05 with highest roc_auc Score is 0.9189048015587753
 
 ***
 
