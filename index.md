@@ -25,6 +25,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
 - Created the confusion matrix for the predictions and make note of the outputs
 - Created a classification report and eplored the various outputs
+- Model had an accuracy score 90.1%
+
 ***
 
 [Identifying possible click fraud by legitimizing user atributes](https://colab.research.google.com/drive/1UqxyiKf465NEJ0hPZpT3DYRA4bJE7FCh)
