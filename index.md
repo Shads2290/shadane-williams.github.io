@@ -13,6 +13,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
 - Fit a multiple linear regression model with high prediction accuracy through iteration
+- Lasso model had a training score 99.9%
 
 ***
 
