@@ -49,7 +49,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
-- The accuracy of the KNN with K=3 is 83.33%, while Best accuracy is 87.1% with K = 9 with fine tuned parameters implemented.
+- The accuracy of KNN Model is 85.5 with K = 1
 ***
 
 [Identifying total compensation based on a vareity of benefits provided by the San Francisco Controller's Office](https://colab.research.google.com/drive/1r8buRPpTT-F009BI0mFsToJrf5bMYfdM#scrollTo=OWR6XNB4A5Gi)
