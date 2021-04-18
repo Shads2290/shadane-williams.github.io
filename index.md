@@ -38,7 +38,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used the Random Forest, Bagging classifier, and XGBoost classifier
 - Used these three models to distinguige click fraud base on accuracy
 - Selected best model based on train and test performance
-- XGBoost Classifier model had an accuracy score 99.7%
+- Random Forest, Bagging classifiers, and XGBoost models have an approximate accuracy of 99% 
 
 ***
 
