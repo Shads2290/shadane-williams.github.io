@@ -30,7 +30,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying possible click fraud by legitimizing user atributes](https://colab.research.google.com/drive/1UqxyiKf465NEJ0hPZpT3DYRA4bJE7FCh)
+[Identifying possible click fraud by legitimizing user atributes](https://colab.research.google.com/drive/1DYGea-2emPmFyuRSePx4v5Ibz7X3S74I#scrollTo=qi_Hh-BBfSiq)
 
 <img src="images/click fraud.jpeg"/>
 
