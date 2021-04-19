@@ -51,6 +51,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - After examing the confusion matrix there was 51 correct predictions and 11 false predictions.
 - Accuracy of the Naive Bayes Clasification is 82.26%. 
 - The accuracy of KNN Model is 85.5 with K = 1.
+
 ***
 
 [Identifying total compensation based on a vareity of benefits provided by the San Francisco Controller's Office](https://colab.research.google.com/drive/1r8buRPpTT-F009BI0mFsToJrf5bMYfdM#scrollTo=OWR6XNB4A5Gi)
