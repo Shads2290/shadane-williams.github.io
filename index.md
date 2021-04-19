@@ -62,6 +62,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Compared predictive performance by fitting a Naive Bayes model to the data.
 - Selected best model based on train and test performance.
 - Doing different comparisons showed that benefits are proportional to ones total compensation.
+
 ***
 
 [Used PCA to identify most important atributes to accurately predict housing market](https://colab.research.google.com/drive/1qLA_6kUuqd9vT_KfFzq2qxQZp40XEuZh)
