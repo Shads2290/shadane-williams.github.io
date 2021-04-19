@@ -10,10 +10,11 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/seoul-bikes.jpeg"/>
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
-- The data had quite a few categorical variables which were encoded for use in the model
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Fit a multiple linear regression model with high prediction accuracy through iteration
-- Lasso model had a training score 99.9%
+- After implementing sklearn.metrics it yeilded the following results:
+- Mean Absolute Error of linear regression: 1.807283706047584e-13
+- Mean Square Error of linear regression: 5.633155215223513e-26
+- R_Squared Score of linear regression: 1.0
+- In an effort to address overfitting I used Lasso Regression which had a training score 99.9%
 
 ***
 
