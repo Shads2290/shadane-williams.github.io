@@ -9,12 +9,12 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/seoul-bikes.jpeg"/>
 
-- Used Linear Regression to predict the number of bikes rented in the city of Seoul
+- Used Linear Regression to predict the number of bikes rented in the city of Seoul.
 - After implementing sklearn.metrics it yeilded the following results:
 - Mean Absolute Error of linear regression: 1.807283706047584e-13
 - Mean Square Error of linear regression: 5.633155215223513e-26
 - R_Squared Score of linear regression: 1.0
-- In an effort to address overfitting I used Lasso Regression which had a training score 99.9%
+- In an effort to address overfitting I used Lasso Regression which had a training score 99.9%.
 
 ***
 
@@ -22,12 +22,12 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/bank.jpeg"/>
 
-- Used logistic regression to identify potential bankers based on various attributes
-- Implemented SMOTE to balance class labels
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Created the confusion matrix for the predictions and make note of the outputs
-- Created a classification report and eplored the various outputs
-- Model had an accuracy score 90.1%
+- Used logistic regression to identify potential bankers based on various attributes.
+- Implemented SMOTE to balance class labels.
+- Used Logistic regression classifier & optimized the accuracy by using the ROC curve.
+- Created the confusion matrix for the predictions and make note of the outputs.
+- Created a classification report and eplored the various outputs.
+- Model had an accuracy score 90.1%.
 
 ***
 
@@ -36,10 +36,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/click fraud.jpeg"/>
 
 - Used the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
-- Used the Random Forest, Bagging classifier, and XGBoost classifier
-- Used these three models to distinguige click fraud base on accuracy
-- Selected best model based on train and test performance
-- Random Forest, Bagging classifiers, and XGBoost models have an approximate accuracy of 99% 
+- Used the Random Forest, Bagging classifier, and XGBoost classifier.
+- Used these three models to distinguige click fraud base on accuracy.
+- Selected best model based on train and test performance.
+- Random Forest, Bagging classifiers, and XGBoost models have an approximate accuracy of 99%. 
 
 ***
 
@@ -49,17 +49,17 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - Used the K Nearest Neighbours algorithm and Naive Bayes Classification to classify a patient's condition as normal or abnormal based on various orthopedic parameters.
 - After examing the confusion matrix there was 51 correct predictions and 11 false predictions.
-- Accuracy of the Naive Bayes Clasification is 82.26% 
-- The accuracy of KNN Model is 85.5 with K = 1
+- Accuracy of the Naive Bayes Clasification is 82.26%. 
+- The accuracy of KNN Model is 85.5 with K = 1.
 ***
 
 [Identifying total compensation based on a vareity of benefits provided by the San Francisco Controller's Office](https://colab.research.google.com/drive/1r8buRPpTT-F009BI0mFsToJrf5bMYfdM#scrollTo=OWR6XNB4A5Gi)
 
 <img src= "images/Total Compensation.jpeg"/>
 
-- Used the K Nearest Neighbours algorithm to total compensation of employees on various atributes
-- Compared predictive performance by fitting a Naive Bayes model to the data
-- Selected best model based on train and test performance
+- Used the K Nearest Neighbours algorithm to total compensation of employees on various atributes.
+- Compared predictive performance by fitting a Naive Bayes model to the data.
+- Selected best model based on train and test performance.
 - Doing different comparisons showed that benefits are proportional to ones total compensation.
 ***
 
